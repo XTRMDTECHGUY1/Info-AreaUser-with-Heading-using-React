@@ -1,4 +1,4 @@
-Using React to build a User Area and Heading
+# Using React to Build a User Area and Heading
 ![2](https://github.com/XTRMDTECHGUY1/Info-AreaUser-with-Heading-using-React/assets/88555638/0c62edf2-a606-4007-b822-7a605588e37c)
 
 
