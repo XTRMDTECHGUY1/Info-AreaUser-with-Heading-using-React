@@ -1,0 +1,58 @@
+*{
+  font-family: muli;
+}
+
+  body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+   width: 100vw;
+   background-color: black;
+  min-height: 100vh;
+  font-family: muli;
+  justify-content: center;
+}
+
+
+
+
+.txt{
+  text-align: center;
+  align-items: center;
+  margin: 1rem;
+ 
+}
+.cardroll{
+  display: none;
+}
+
+
+.cards1{
+margin: 2rem;
+text-align: center;
+}
+
+.facebook{
+color: white;
+background-color: blue;
+font-size: 20px;
+border-radius: 20px;
+}
+
+.twitter{
+  color: white;
+  background-color: rgb(4, 122, 122);
+  font-size: 20px;
+  border-radius: 20px;
+  
+  
+}
+
+.instagram{
+  color: white;
+  background-color: rgb(153, 4, 54);
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+
